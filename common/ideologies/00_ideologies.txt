@@ -10,7 +10,7 @@
 
 	mod_soc = {
 	
-	} #TBD
+	}
 
 	soc_dem = {
 	
