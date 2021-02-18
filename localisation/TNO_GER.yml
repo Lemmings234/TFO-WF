@@ -1,0 +1,38 @@
+﻿#Parties#
+GER_auth_soc_party:0 KPD
+GER_auth_soc_party_long: 0 Kommunistische Partei Deutschlands
+GER_lib_soc_party:0 KAPD
+GER_lib_soc_party_long:0 Kommunistische Arbeiter-Partei Deutschlands
+GER_mod_soc_party:0 SPD
+GER_mod_soc_party_long:0 Sozialdemokratische Partei Deutschlands
+GER_soc_dem_party:0 SPD
+GER_soc_dem_party_long:0 Sozialdemokratische Partei Deutschlands
+GER_lib_dem_party:0 DDP
+GER_lib_dem_party_long:0 Deutsche Demokratische Partei
+GER_con_dem_party:0 Zentrum
+GER_con_dem_party_long:0 Zentrumspartei
+GER_auth_dem_party:0 DkP
+GER_auth_dem_party_long:0 Deustchkonservative Partei
+GER_despotist_party:0 DNVP
+GER_despotist_party_long:0Deutschnationale Volkspartei 
+GER_fascist_party:0 DNVP
+GER_fascist_party_long:0 Deutschnationale Volkspartei
+GER_nat_sorel_party:0 DVFP
+GER_nat_sorel_party_long:0 Deutschvölkische Freiheitspartei
+GER_nat_synd_party:0 Schwarze Front
+GER_nat_synd_party_long:0 Kampfgemeinschaft Revolutionärer Nationalsozialisten
+GER_ultranationalist_party:0 SS
+GER_ultranationalist_party_long:0 Schutzstaffel
+
+GER_independent_party:0 Independent
+GER_independent_party_long:0 Independent (Kurt's Clique)
+GER_auth_zen_party:0 Zentrum
+GER_auth_zen_party_long:0 Zentrumspartei
+GER_spartacist_party:0 KPD (Spartacists)
+GER_spartacist_party_long:0 Kommunistische Partei Deutschlands
+GER_marxist_party:0 KPD (Marxists)
+GER_marxist_party_long:0 Kommunistische Partei Deutschlands
+GER_stalinist_party:0 KPD (Stalinists)
+GER_stalinist_party_long:0 Kommunistische Partei Deutschlands 
+GER_DAP:0 DAP
+GER_DAP_long:0 Deutsche Arbeiterpartei

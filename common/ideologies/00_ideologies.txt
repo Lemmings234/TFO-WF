@@ -1,0 +1,51 @@
+﻿ideaologies = {
+
+	auth_soc = {
+	
+	}
+
+	lib_soc = {
+	
+	}
+
+	mod_soc = {
+	
+	} #TBD
+
+	soc_dem = {
+	
+	}
+
+	lib_dem = {
+	
+	}
+
+	con_dem = {
+	
+	}
+
+	auth_dem = {
+	
+	}
+
+	despotist = {
+	
+	}
+
+	fascist = {
+	
+	}
+
+	nat_sorel = {
+	
+	}
+
+	nat_synd = {
+	
+	}
+
+	ultranationalist = {
+	
+	}
+
+}
