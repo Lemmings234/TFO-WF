@@ -19,8 +19,6 @@ GER_fascist_party:0 DNVP
 GER_fascist_party_long:0 Deutschnationale Volkspartei
 GER_nat_sorel_party:0 DVFP
 GER_nat_sorel_party_long:0 Deutschvölkische Freiheitspartei
-GER_nat_synd_party:0 Schwarze Front
-GER_nat_synd_party_long:0 Kampfgemeinschaft Revolutionärer Nationalsozialisten
 GER_ultranationalist_party:0 SS
 GER_ultranationalist_party_long:0 Schutzstaffel
 
@@ -36,3 +34,5 @@ GER_stalinist_party:0 KPD (Stalinists)
 GER_stalinist_party_long:0 Kommunistische Partei Deutschlands 
 GER_DAP:0 DAP
 GER_DAP_long:0 Deutsche Arbeiterpartei
+GER_KRN_party:0 KRN (Schwarze Front)
+GER_KRN_long:0 Kampfgemeinschaft Revolutionärer Nationalsozialisten

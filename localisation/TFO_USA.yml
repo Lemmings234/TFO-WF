@@ -1,0 +1,23 @@
+#Parties
+USA_auth_soc_party:0 CPUSA
+USA_auth_soc_party_long:0 Communist Party USA
+USA_lib_soc_party:0 CPUSA
+USA_lib_soc_party_long:0 Communist Party USA
+USA_mod_soc_party:0 Progressives
+USA_mod_soc_party_long:0 Progressive Party
+USA_soc_dem_party:0 Progressives
+USA_soc_dem_party_long:0 Progressive Party
+USA_lib_dem_party:0 Republicans
+USA_lib_dem_party_long:0 Republican Party
+USA_con_dem_party:0 Democrats
+USA_con_dem_party_long:0 Democratic Party
+USA_auth_dem_party:0 Longist Democrats
+USA_auth_dem_party_long:0 Democratic Party (Longist Faction)
+USA_despotist_party:0 Military Junta
+USA_despotist_party_long:0 Military Junta
+USA_fascist_party:0 American Party
+USA_fascist_party_long:0 American Party
+USA_nat_sorel_party:0 American Party
+USA_nat_sorel_party_long:0 American Party
+USA_ultranationalist_party:0 American Party
+USA_ultranationalist_party_long:0 American Party

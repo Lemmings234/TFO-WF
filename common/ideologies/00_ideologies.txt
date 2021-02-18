@@ -40,10 +40,6 @@
 	
 	}
 
-	nat_synd = {
-	
-	}
-
 	ultranationalist = {
 	
 	}
