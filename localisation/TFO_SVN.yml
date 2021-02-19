@@ -1,23 +1,30 @@
 ﻿#Parties
-SVN_auth_soc_party:0
-SVN_auth_soc_party_long:0
-SVN_lib_soc_party:0
-SVN_lib_soc_party_long:0
-SVN_mod_soc_party:0
-SVN_mod_soc_party_long:0
-SVN_soc_dem_party:0
-SVN_soc_dem_party_long:0
-SVN_lib_dem_party:0
-SVN_lib_dem_party_long:0
-SVN_con_dem_party:0
-SVN_con_dem_party_long:0
-SVN_auth_dem_party:0
-SVN_auth_dem_party_long:0
-SVN_despotist_party:0
-SVN_despotist_party_long:0
-SVN_fascist_party:0
-SVN_fascist_party_long:0
-SVN_nat_sorel_party:0
-SVN_nat_sorel_party_long:0
-SVN_ultranationalist_party:0
-SVN_ultranationalist_party_long:0
+SVN_auth_soc_party:0 Viet Minh
+SVN_auth_soc_party_long:0 Viet Nam Doc Lap Dong Minh
+SVN_lib_soc_party:0 Viet Minh
+SVN_lib_soc_party_long:0 Viet Nam Doc Lap Dong Minh
+SVN_mod_soc_party:0 Viet Minh
+SVN_mod_soc_party_long:0 Viet Nam Doc Lap Dong Minh
+SVN_soc_dem_party:0 VNQDD
+SVN_soc_dem_party_long:0 Viet Nam Quoc Dan Dang
+SVN_lib_dem_party:0 VNQDD
+SVN_lib_dem_party_long:0 Viet Nam Quoc Dan Dang
+SVN_con_dem_party:0 VNQDD
+SVN_con_dem_party_long:0 Viet Nam Quoc Dan Dang
+SVN_auth_dem_party:0 VNQDD
+SVN_auth_dem_party_long:0 Viet Nam Quoc Dan Dang
+SVN_despotist_party:0 VNQDD
+SVN_despotist_party_long:0 Viet Nam Quoc Dan Dang
+SVN_fascist_party:0 Royalists
+SVN_fascist_party_long:0 Nguyen Dynasty Supporters
+SVN_nat_sorel_party:0 French Remnants
+SVN_nat_sorel_party_long:0 French Colonial Government Remnants
+SVN_ultranationalist_party:0 Ultranationalist
+SVN_ultranationalist_party_long:0 Ultranationalist
+
+SVN_CPV1:0 CPV
+SVN_CPV1_long:0 Communist Party of Vietnam
+SVN_CPV2:0 CPV
+SVN_CPV2_long:0 Communist Party of Vietnam
+SVN_CPV3:0 CPV
+SVN_CPV3_long:0 Communist Party of Vietnam
