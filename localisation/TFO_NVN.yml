@@ -27,6 +27,9 @@ NVN_personalist_party_long:0 Personalist Labor Revolutionary Party (Đảng Cầ
 NVN_military_junta:0 Military Junta
 NVN_military_junta_long:0 Military Junta
 
+#Ideas
+NVN_uneasy_coalition:0 Uneasy Coalition
+NVN_uneasy_coalition_desc:0 Despite our common goals to make sure that Vietnam shall never fall to the communist Việt Minh, the ĐVQDĐ's Doctrine of the Survival of the People is less than ideal. To add on to the trouble, the VNQDĐ is divided into different wings, with each wings having their own idea on how to govern Vietnam based on the Three Principles of the People.
 #Focus Tree
-NVN_stay_together:Stay Together
-NVN_market_socialism:Socialist-oriented Market Economy
+NVN_stay_together:0 Stay Together
+NVN_market_socialism:0 Socialist-oriented Market Economy

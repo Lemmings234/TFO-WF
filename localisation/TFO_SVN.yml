@@ -29,5 +29,20 @@ SVN_CPV2_long:0 Communist Party of Vietnam (Đảng Cộng Sản Việt Nam)
 SVN_CPV3:0 CPV (Moderates)
 SVN_CPV3_long:0 Communist Party of Vietnam (Đảng Cộng Sản Việt Nam)
 
-SVN_stay_together:Stay Together
-SVN_market_socialism:Socialist-oriented Market Economy
+#Ideas
+SVN_support_of_the_people:0 The People's Support
+SVN_support_of_the_people_desc:0 Our history of fighting against the colonizers and their puppets gain us the support of the common folks across the cities and the countrysides. We must rally them to our cause for a free socialist Vietnam.
+#Focus Tree
+SVN_stay_together:0 Stay Together
+SVN_market_socialism:0 Socialist-oriented Market Economy
+
+##############
+### Events ###
+##############
+svn.1.t:
+svn.1.d:
+svn.1.a:
+
+svn.3.t:0 Formation of the CPV
+svn.3.d:0 After emerging the Vietnamese Civil War victorious, us Việt Minh decides to reorganize ourselves into a proper party called the Communist Party of Vietnam, or CPV for short. We shall strive to make ourselves a worthy partner to our comrades in the Soviet Union.
+svn.3.a:0 Let's get down to business!
