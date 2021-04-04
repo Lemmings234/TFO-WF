@@ -1,47 +1,98 @@
 ﻿ideaologies = {
 
 	auth_soc = {
-	
+		type = {
+			left_peronism = {}
+			marxism_leninism = {}
+			troskyism = {}
+			orthodox_marxism = {}
+			luxembourgism = {}
+			stalinism = {}
+			bukharinism = {}
+		}
 	}
 
 	lib_soc = {
-	
+		type = {
+			left_peronism = {}
+			anarcho_communism = {}
+			council_communism = {}
+		}
 	}
 
 	mod_soc = {
-	
+		type {
+			left_peronism = {}
+			christian_socialism = {}
+			islamic_socialism {}
+		}
 	}
 
 	soc_dem = {
-	
+		type = {
+			left_peronism = {}
+		}
 	}
 
 	lib_dem = {
-	
+		type = {
+			center_peronism = {}
+		}
 	}
 
 	con_dem = {
-	
+		type = {
+			center_peronism = {}
+			christian_democracy = {}
+		}
 	}
 
 	auth_dem = {
-	
+		type = {
+			right_peronism = {}
+			military_junta = {}
+			longism = {}
+			kemalism = {}
+			provisional_government = {}
+		}
 	}
 
 	despotist = {
-	
+		type = {
+			right_peronism = {}
+			absolute_monarchism = {}
+			showa_statism = {}
+			austrofascism = {}
+		}
 	}
 
 	fascist = {
-	
+		type = {
+			showa_statism = {}
+			clerical_fascism = {}
+			italian_fascism = {}
+			french_fascism = {}
+			russian_fascism = {}
+			neo_socialism = {}
+		}
 	}
 
 	nat_sorel = {
-	
+		type = {
+			nat_synd = {}
+			nat_soc = {}
+			falange = {}
+			rodzaevskyism = {}
+			volkism = {}
+			strasserism = {}
+			showa_statism = {}
+		}
 	}
 
 	ultranationalist = {
-	
+		type = {
+			showa_statism = {}
+		}
 	}
 
 }
