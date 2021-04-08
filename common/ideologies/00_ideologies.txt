@@ -9,6 +9,7 @@
 			luxembourgism = {}
 			stalinism = {}
 			bukharinism = {}
+			leftist_autocracy = {}
 		}
 	}
 
@@ -61,8 +62,10 @@
 		type = {
 			right_peronism = {}
 			absolute_monarchism = {}
+			semi_constitutional_monarchy = {}
 			showa_statism = {}
 			austrofascism = {}
+			leftist_autocracy = {}
 		}
 	}
 
@@ -82,16 +85,18 @@
 			nat_synd = {}
 			nat_soc = {}
 			falange = {}
-			rodzaevskyism = {}
+			russian_fascism = {}
 			volkism = {}
 			strasserism = {}
 			showa_statism = {}
+			survival_nationalism = {}
 		}
 	}
 
 	ultranationalist = {
 		type = {
 			showa_statism = {}
+			survival_nationalism = {}
 		}
 	}
 
